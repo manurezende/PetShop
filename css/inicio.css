@@ -1,0 +1,49 @@
+
+
+body
+{
+    background-color: #e8ffcb;
+}
+
+header
+{
+    background-color: #bddd94;
+    display: flex;
+    flex-direction: row;
+
+    
+}
+
+.img_main
+{
+    width: 200px;
+}
+.itens_list
+{
+list-style: none;
+display: flex ;
+justify-content: space-between;
+flex-direction: row;
+
+}
+
+.btn_clique_aqui
+{
+    background-color: #bddd94;
+    color: antiquewhite;
+    border: none;
+    border-radius: 9px;
+}
+
+
+.img_footer
+{
+    width: 30px;
+    height: 30px;
+}
+
+/* .header
+{
+  
+    
+} */
